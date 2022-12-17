@@ -1,0 +1,11 @@
+{% extends 'partials/base.html' %}
+
+{% block content %}
+    <div class="container-sm mt-5 pt-5">
+        <h3 class="text-center" style="color: rgb(0, 0, 0);">How to Use</h3>
+        <br>
+        <p>
+            The FireAway web application is aimed to assist firefighters in finding the locations of wildfires near them. If you are monitoring the locations of the fires, navigate to the <b>“Map”</b> tab in the navigation bar at the top of the application. You will see a map of the eight nodes where fires will occur. The singular dark blue node represents the current location of those monitoring the fires, which is the router. (Note that if you hover over the node, you see that it is your current location) The light blue nodes are the possible locations of the fires. (Hover over them to see their coordinates) Once a fire is detected, the node will turn red and alert you that a fire is at that location. At that moment, all emergency services should be deployed.
+        </p>
+    </div>
+{% endblock %}
