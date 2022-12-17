@@ -1,0 +1,12 @@
+../Core/Src/graph.c:21:10:graph_init	16	static
+../Core/Src/graph.c:29:6:is_vertex	24	static
+../Core/Src/graph.c:40:6:verify_graph	40	static
+../Core/Src/graph.c:77:6:graph_add_neighbors	48	static
+../Core/Src/graph.c:112:6:adj_list_has_node	32	static
+../Core/Src/graph.c:128:13:get_adj_vertex	24	static
+../Core/Src/graph.c:183:13:find_vertex	24	static
+../Core/Src/graph.c:195:6:print_adj_list	64	static
+../Core/Src/graph.c:212:6:print_graph	64	static
+../Core/Src/graph.c:230:6:remove_vertex	40	static
+../Core/Src/graph.c:279:6:remove_adj_node	24	static
+../Core/Src/graph.c:316:6:remove_tree_neighbor	32	static

@@ -1,0 +1,9 @@
+../Core/Src/lora.c:32:5:lin_search	32	static
+../Core/Src/lora.c:44:6:print_bytes	40	static
+../Core/Src/lora.c:59:5:readline_LORA	32	static
+../Core/Src/lora.c:91:5:LORA_cmd	160	dynamic
+../Core/Src/lora.c:168:5:config_LORA	144	static
+../Core/Src/lora.c:189:5:sleep_LORA	56	static
+../Core/Src/lora.c:196:5:init_LORA	176	static
+../Core/Src/lora.c:217:5:LORA_send_packet	104	static
+../Core/Src/lora.c:256:7:lora_recv_data	168	dynamic

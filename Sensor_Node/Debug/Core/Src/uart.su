@@ -1,0 +1,8 @@
+../Core/Src/uart.c:16:6:UART1_tx_byte	24	static
+../Core/Src/uart.c:23:6:UART1_rx_byte	16	static
+../Core/Src/uart.c:29:6:UART2_tx_byte	24	static
+../Core/Src/uart.c:36:6:UART2_rx_byte	16	static
+../Core/Src/uart.c:42:6:UART2_tx	24	static
+../Core/Src/uart.c:52:6:UART1_tx	24	static
+../Core/Src/uart.c:62:6:UART1_rx	32	static
+../Core/Src/uart.c:72:6:UART2_rx	32	static

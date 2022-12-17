@@ -1,0 +1,9 @@
+../Core/Src/graph.c:11:10:graph_init	16	static
+../Core/Src/graph.c:19:6:is_vertex	24	static
+../Core/Src/graph.c:30:6:verify_graph	40	static
+../Core/Src/graph.c:67:6:graph_add_neighbors	48	static
+../Core/Src/graph.c:102:6:adj_list_has_node	32	static
+../Core/Src/graph.c:118:13:get_adj_vertex	24	static
+../Core/Src/graph.c:173:13:find_vertex	24	static
+../Core/Src/graph.c:185:6:print_adj_list	64	static
+../Core/Src/graph.c:202:6:print_graph	64	static

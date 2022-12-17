@@ -1,0 +1,2 @@
+../Core/Src/prints.c:27:6:HAL_printf	256	static
+../Core/Src/prints.c:37:6:wait_ms	24	static

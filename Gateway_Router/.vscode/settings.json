@@ -1,0 +1,11 @@
+{
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.openOCDPath": false,
+    "files.associations": {
+        "packet.h": "c",
+        "protocols.h": "c",
+        "json_write.h": "c",
+        "lora.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

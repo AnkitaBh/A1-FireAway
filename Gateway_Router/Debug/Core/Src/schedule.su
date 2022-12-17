@@ -1,0 +1,7 @@
+../Core/Src/schedule.c:14:6:node_in_list	24	static
+../Core/Src/schedule.c:22:6:remove_from_list	24	static
+../Core/Src/schedule.c:40:6:calculate_global_sch	16	static
+../Core/Src/schedule.c:54:6:populate_schedule	40	static
+../Core/Src/schedule.c:106:6:init_sch	16	static
+../Core/Src/schedule.c:113:6:print_schedule	72	static
+../Core/Src/schedule.c:144:6:free_sched	16	static

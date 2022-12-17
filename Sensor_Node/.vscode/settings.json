@@ -1,0 +1,9 @@
+{
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.openOCDPath": false,
+    "files.associations": {
+        "protocols.h": "c",
+        "main.h": "c",
+        "schedule.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+../Core/Src/ring_buffer.c:5:6:ring_buffer_init	24	static
+../Core/Src/ring_buffer.c:13:6:ring_buffer_add	40	static
+../Core/Src/ring_buffer.c:43:6:ring_buffer_get	32	static
+../Core/Src/ring_buffer.c:69:6:queue_init	16	static
+../Core/Src/ring_buffer.c:75:6:enqueue	32	static
+../Core/Src/ring_buffer.c:104:7:dequeue	32	static
